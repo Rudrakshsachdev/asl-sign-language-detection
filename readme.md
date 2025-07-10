@@ -33,21 +33,21 @@ This project focuses on the **real-time detection of American Sign Language (ASL
 
 ## 🗂️ Project Structure
 
-ASL_Sign_Detection_Project/
-├── data/ # ASL dataset (excluded in GitHub)
-│ └── rawData/
-│ └── asl_alphabet_train/
-├── src/ # Source scripts
-│ ├── Preprocessing.py # Data loading and preprocessing
-│ ├── TrainModel.py # CNN model building and training
-│ ├── EvaluateModel.py # Model performance evaluation
-│ ├── RealTimeASL.py # Real-time ASL detection and sentence building
-│ └── models/
-│ └── asl_model.h5 # Saved trained model
-├── .gitignore
-├── requirements.txt # Python dependencies
-├── LICENSE # MIT License
-└── README.md # You are here
+ASL_Sign_Detection_Project/ <br>
+├── data/ # ASL dataset (excluded in GitHub) <br>
+│ └── rawData/ <br>
+│ └── asl_alphabet_train/ <br>
+├── src/ # Source scripts <br>
+│ ├── Preprocessing.py # Data loading and preprocessing <br>
+│ ├── TrainModel.py # CNN model building and training <br>
+│ ├── EvaluateModel.py # Model performance evaluation <br>
+│ ├── RealTimeASL.py # Real-time ASL detection and sentence building <br>
+│ └── models/ <br>
+│ └── asl_model.h5 # Saved trained model <br>
+├── .gitignore <br>
+├── requirements.txt # Python dependencies <br>
+├── LICENSE # MIT License <br>
+└── README.md  <br>
 
 
 ---
@@ -155,4 +155,14 @@ The CNN model contains the following layers:
 3. Use MobileNet or EfficientNet for better accuracy
 
 4. Include ASL word recognition
+
+---
+
+## 👨‍💻 Author
+
+**Rudraksh Sachdeva**  
+B.Tech CSE Student | Machine Learning Intern | Tech Enthusiast  
+📧 Email: rudraksh.sachdeva.19work@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/rudraksh-sachdeva](https://www.linkedin.com/in/rudraksh-sachdeva)  
+🐱 GitHub: [github.com/rudraksh-sachdeva](https://github.com/rudraksh-sachdev)
 
